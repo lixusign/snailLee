@@ -1,6 +1,4 @@
 snailLee
 ========
 
-fu*k
-
-who?
+This is a code for something I can write .
